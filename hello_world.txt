@@ -3,3 +3,8 @@ blabla
 
 testiranje
 za git!!
+
+test promjena 1
+
+samo da vidimo kako to sve ide
+test2
