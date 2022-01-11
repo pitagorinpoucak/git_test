@@ -1,0 +1,5 @@
+lorem ipsum bla
+blabla
+
+testiranje
+za git!!
